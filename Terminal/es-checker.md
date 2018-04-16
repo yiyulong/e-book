@@ -1,0 +1,1 @@
+# [ES6 的功能侦测库 ES-Checker](http://www.ruanyifeng.com/blog/2015/06/es-checker.html)
